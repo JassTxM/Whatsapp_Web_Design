@@ -40,5 +40,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Happy Coding!
 ```
-
-Replace placeholders like `your-username`, `Your Name`, `your_twitter`, and `email@example.com` with your actual details. This README file provides a structure to help users understand and contribute to your project effectively.# Whatsapp_Web_Design
