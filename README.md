@@ -16,7 +16,7 @@ This project is a static representation of the Whatsapp Web interface designed p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Whatsapp_Web_Design.git
+   git clone https://github.com/JassTxM/Whatsapp_Web_Design.git
    ```
 2. Open `index.html` in your web browser.
 
